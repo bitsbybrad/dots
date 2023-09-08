@@ -1,0 +1,2 @@
+# dots
+configurations for wizards
