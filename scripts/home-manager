@@ -1,0 +1,2 @@
+mkdir -p ./profiles/$@
+nix-shell -p home-manager --command "home-manager init ./profiles/$@"
